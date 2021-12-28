@@ -1,0 +1,6 @@
+{
+	"appId": "com.joshuariley.photosaver",
+	"appName": "photosaver",
+	"webDir": "src",
+	"bundledWebRuntime": false
+}

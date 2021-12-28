@@ -30,6 +30,7 @@ var app = new Vue({
                 format: "JPG",
                 quality: 80,
                 timestamp: ts/1000,
+                album:this.album
               };
       
               window.imageSaver.saveBase64Image(
